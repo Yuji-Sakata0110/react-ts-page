@@ -1,8 +1,14 @@
 # Deploy React + TypeScript + Vite into Github Page
 
-Typescript バージョンだが、下記のサイトを参考に実施すると github page にあげることができた。
+Typescript バージョンだが、下記のサイトを参考に実施すると github page にあげることができた。これで作成した静的なアプリは build し、github action を実施することでホスティングすることが可能であることがわかった。記事の作者の方には感謝です。
 
-[参考にさせていただいたサイト](https://qiita.com/tat_mae084/items/4051c61926dc8165e80b)
+[参考にさせていただいた Qiita サイト](https://qiita.com/tat_mae084/items/4051c61926dc8165e80b)
+
+#### github repository react-ts-page
+
+https://yuji-sakata0110.github.io/react-ts-page/
+
+![react-ts-vite](./src/assets/react-ts-vite.png)
 
 # React + TypeScript + Vite
 
