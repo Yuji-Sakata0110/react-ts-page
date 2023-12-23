@@ -1,3 +1,9 @@
+# Deploy React + TypeScript + Vite into Github Page
+
+Typescript バージョンだが、下記のサイトを参考に実施すると github page にあげることができた。
+
+[参考にさせていただいたサイト](https://qiita.com/tat_mae084/items/4051c61926dc8165e80b)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
